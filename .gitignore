@@ -1,0 +1,13 @@
+# Build files
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.bin
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log

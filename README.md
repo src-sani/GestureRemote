@@ -29,26 +29,16 @@ GestureRemote is a wearable remote that detects hand gestures and wirelessly sen
 - C Programming
 - Git & GitHub
 
-## 📂 Repository Structure
-
-```
-docs/
-firmware/
-hardware/
-images/
-models/
-```
-
 ## 🚀 Project Status
 
 🟡 Planning & Initial Development
 
 ## 👥 Team
 
-- @src-sani
-- Member 2
-- Member 3
-- Member 4
+- Saneesh Kumar S
+- Pournamy P s
+- Pranav K P
+- Sreehari P R
 
 ## 📄 License
 

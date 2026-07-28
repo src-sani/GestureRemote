@@ -33,7 +33,7 @@ GestureRemote is a wearable remote that detects hand gestures and wirelessly sen
 
 🟡 Planning & Initial Development
 
-## 👥 Team
+## 👥 Team ASCENDANTS
 
 - Saneesh Kumar S
 - Pournamy P s
